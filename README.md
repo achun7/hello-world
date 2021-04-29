@@ -1,2 +1,3 @@
 # hello-world
-none
+Hi,everyone!
+I'm gonna start my journey here!
